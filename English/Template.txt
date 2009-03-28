@@ -1,0 +1,5 @@
+; this is a sample book source file, please refer to help for details.
+
+objective : n. [objectives]goal; aim
+#A degree in medicine was her ultimate [objective].
+

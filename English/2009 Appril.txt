@@ -1,0 +1,82 @@
+; this is a sample book source file, please refer to help for details.
+
+objective : n. [objectives]goal; aim
+#A degree in medicine was her ultimate [objective].
+
+
+amusement : n. the feeling that you have when sth is funny or amusing, or it entertains you
+#She could not hide her [amusement] at the way he was dancing.
+#To do something for [amusement]
+#-SYN: entertainment,
+
+designate : v.  to choose someone or something for a particular job or purpose
+#This area has been [designated] (as) a National Park
+#This floor has been [designated] a no-smoking area
+#SYN: assign, depute, delegate
+
+take into account : v. allow or plan for a certain possibility; concede the truth or validity of something;
+#I allow for this possibility or I [take into account] this possibility
+#SYN: allow
+
+accounting : n. 1-a convincing explanation that reveals basic causes. 2-a statement of recent transactions and the resulting balance
+#There is no [accounting] for his behavious
+#They send me an [accounting] every month
+
+be subject to sth : adj.  1-depending on sth in order to be completed or agreed. 2-likely to be affected by sth, especially sth bad
+#Flights [are subject to] delay because of the fog
+#The article is ready to publish, [subject to] your approval.
+
+numerator : n.  the dividend of a fraction, the number above the line in a fraction 
+#5 is the [numerator] in 5/6
+#COMPARE: denominator
+
+denominator : n. the divisor of a fraction,  the number below the line in a fraction
+#6 is the [denominator] in 5/6
+#COMPARE: numerator
+
+valley : n. an area of lower land between two lines of hills or mountains, usually with a river flowing through it
+#The San Fernando [valley]
+#SYN: vale
+
+puke : v.  to bring food back up from your stomach through your mouth
+#The baby [puked] all over me this morning.
+#SYN: throw up
+#ANT: keep down
+
+bargain :  n.  something you buy cheaply or for less than its usual price
+#There are no [bargains] in the clothes shops at the moment.
+#to make a bargain with somebody: su thoa thuan mua ban voi ai.
+
+saturation : n.  technical the degree to which something has been mixed into something else [su bao hoa]
+#Keep [saturation] below 80%.
+
+tradeoff : n.  an exchange that occurs as a compromise. [Su thoa hiep]
+#I faced a [tradeoff] between eating and buying my medicine
+
+shortcoming : n. a fault or weakness that makes someone or something less successful or effective than they should be [nhuoc diem, thieu sot]
+#She made me aware of my own [shortcomings]
+
+winnow : v.  to make a list, group, or quantity smaller by getting rid of the things that you do not need or want [san loc, chon lua]
+#We need to [winnow] the list of candidates to three.
+
+amenable : adj. willing to accept what someone says or does without arguing,  easy to control; willing to be influenced by sb/sth [de bao, tuan theo]
+#She was always a very [amenable] child.
+
+so as to : adv. in order to
+#he observed the snakes [so as to] describe their behavior.
+
+compensate : v. to replace or balance the effect of something bad [boi thuong, den bu]
+#Because my left eye is so weak, my right eye has to work harder to [compensate].
+#Nothing can [compensate] for the loss of a loved one
+#to [compensate] someone for something
+#SYN: make up for, indemnify
+
+fulfill : v. fill or meet a want or need , fulfil the requirements or expectations of [thuc hien, hoan thanh, thi hanh, dap ung]
+#to [fulfil] one's hop
+#SYN: carry out, accomplish, execute
+
+interdependence: n.  a situation in which people or things depend on each other, a reciprocal relation between interdependent entities
+#the [interdependence[] of our body's immune and nervous systems
+#SYN: mutuality
+
+
